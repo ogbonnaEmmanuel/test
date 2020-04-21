@@ -1,1 +1,1 @@
-console.log('main')
+console.log('mainFile')
